@@ -27,8 +27,8 @@ To enhance data input speed, we convert the data into LMDB format before trainin
   * [Comics-lmdb](https://drive.google.com/drive/folders/1juhde7RPtKDkNn64_r3fkn19wUi5WAgL?usp=drive_link)
   * [CoCo-2017(41k)-lmdb](https://drive.google.com/drive/folders/1ct6UeFJo50z-x2UvRoC_kQee0wxkY530?usp=drive_link)
 
-After downloading, please place them into the './data' dir (The LMDB data of Paintings is too large, about 36G. It exceeds the size limit of my Google Cloud disk, so the upload cannot be successful. To this end, we give the code, i.e., folder2lmdb.py, to convert to image files to LMDB format.). 
-You can alternatively utilize either the ImageFolderTriple class or the ElementwiseTriple class, both of which are provided in the utils.py file, to read training data from image files.
+After downloading, please place them into the './data' dir (The LMDB data of Paintings is too large, about 36G. It exceeds the size limit of my Google Cloud disk, so the upload cannot be successful. To this end, we give the process code, i.e., `folder2lmdb.py`. Using it, you can convert image files to LMDB format by yourself). 
+You can alternatively utilize either the `ImageFolderTriple` class or the `ElementwiseTriple` class, both of which are provided in the `utils.py` file, to read training data from image files.
 
 **Evaluation Data:**
 

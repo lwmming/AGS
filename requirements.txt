@@ -1,0 +1,11 @@
+kornia==0.5.7
+lmdb==1.4.0
+numpy==1.21.6
+Pillow==7.0.0
+Pillow==10.2.0
+pretrainedmodels==0.7.4
+six==1.14.0
+timm==0.5.4
+torch==1.9.0+cu111
+torchvision==0.10.0+cu111
+tqdm==4.42.1

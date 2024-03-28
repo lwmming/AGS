@@ -1,5 +1,5 @@
 # AGS
-Code for the AAAI 2024 paper: "AGS: Affordable and Generalizable Substitute Training for Transferable Adversarial Attack" (accepted).
+Code for the AAAI 2024 paper: "[AGS: Affordable and Generalizable Substitute Training for Transferable Adversarial Attack](https://ojs.aaai.org/index.php/AAAI/article/view/28365)" (accepted).
 
 ## Prerequisites
 The repo requires the following:
